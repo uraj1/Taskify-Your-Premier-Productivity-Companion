@@ -1,5 +1,5 @@
 # Taskify
-Taskify is a versatile and user-friendly TODO app designed to help you stay organized, boost your productivity, and manage your tasks with ease. Whether you're a student, professional, or anyone looking to streamline their daily tasks, Taskify has got you covered.
+Taskify is a versatile and user-friendly TODO app designed to help you stay organized, boost your productivity, and manage your tasks with ease. Whether you're a student, professional, or anyone looking to streamline their daily tasks, Taskify has got you covered. This web-app is made using React Js and Tailwind CSS
 
 # Key Features:
 
